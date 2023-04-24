@@ -10,8 +10,10 @@
 <!-- Project title -->
 
 <div align="center">
-<img src=" https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=100&center=true&vCenter=true&multiline=true&width=600&height=80&lines=From+Raw+Data+to+Predictive+Model;A+Data+Science+Project ">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=100&center=true&vCenter=true&multiline=true&width=600&height=80&lines=From+Raw+Data+to+Predictive+Model;A+Data+Science+Project">
 </div>
+
+
 
 ## Description
 
