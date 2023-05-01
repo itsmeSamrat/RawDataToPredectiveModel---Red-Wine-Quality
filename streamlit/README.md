@@ -1,7 +1,7 @@
 <div align="center">
     <a href="https://itsmesamrat-rawdatatopredectivemodel--streamlitstreamlit-yh0n7p.streamlit.app/" target="_blank">
         <img src="https://github.com/itsmeSamrat/RawDataToPredectiveModel-Red-Wine-Quality/blob/main/streamlit/app.png" 
-        alt="Logo" width="290" height="225">
+        alt="Logo" width="300" height="450">
     </a>
 </div>
 
