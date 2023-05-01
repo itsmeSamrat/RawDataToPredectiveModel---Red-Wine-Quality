@@ -1,4 +1,4 @@
-pickle
+pickle5==0.0.11
 steamlit==1.22.0
 scikit-learn==1.2.2
 numpy==1.24.3
