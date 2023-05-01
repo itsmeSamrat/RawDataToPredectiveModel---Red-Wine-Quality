@@ -32,11 +32,11 @@ def predict_wine_quality(
 
     # loading the model from
 
-    rf_model = pickle.load(open("final_trained_model.pkl", "rb"))
+    rf_model = pickle.load(open("streamlit/final_trained_model.pkl", "rb"))
 
     # loading the scaler values
 
-    rf_scaler = pickle.load(open("final_trained_scaler_model.pkl", "rb"))
+    rf_scaler = pickle.load(open("streamlit/final_trained_scaler_model.pkl", "rb"))
 
     data_scaled = rf_scaler.transform(data)
 
