@@ -1,3 +1,10 @@
+<div align="center">
+    <a href="https://itsmesamrat-rawdatatopredectivemodel--streamlitstreamlit-yh0n7p.streamlit.app/" target="_blank">
+        <img src="https://github.com/itsmeSamrat/RawDataToPredectiveModel-Red-Wine-Quality/blob/main/streamlit/app.png" 
+        alt="Logo" width="290" height="225">
+    </a>
+</div>
+
 ## Description
 
 I have made a Streamlit-based web app and it is deployed in Streamlit Cloud. You can test the [app here](https://itsmesamrat-rawdatatopredectivemodel--streamlitstreamlit-yh0n7p.streamlit.app/). You also have some data in the directory that will help you to test the model.
